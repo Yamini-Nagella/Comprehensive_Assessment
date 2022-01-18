@@ -1,0 +1,8 @@
+2022-01-16 20:38:59,449  INFO [TestNG-test=Test-1] CarBookingRunner:14 - URL Opened
+2022-01-16 20:39:01,727  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Select Airport Tab is clicked in page Home Page
+2022-01-16 20:39:03,036  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Select City is send in page Home Page
+2022-01-16 20:39:04,290  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Trip type is clicked in page Airport Taxi Booking
+2022-01-16 20:39:05,373  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Address Field is send in page Airport Taxi Booking
+2022-01-16 20:39:09,077  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Date Field is clicked in page Airport Taxi Booking
+2022-01-16 20:39:14,125  INFO [TestNG-test=Test-1] CarBookingRunner:14 - click on select car is clicked in page One way Booking
+2022-01-16 20:39:14,369  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Successfully logged in

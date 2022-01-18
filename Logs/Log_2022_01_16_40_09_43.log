@@ -1,0 +1,8 @@
+2022-01-16 21:40:53,900  INFO [TestNG-test=Test-1] CarBookingRunner:14 - URL Opened
+2022-01-16 21:40:56,599  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Select Round Trip is clicked in page Home Page
+2022-01-16 21:40:57,775  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Source city is send in page Home Page
+2022-01-16 21:40:58,791  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Destination City is send in page Home Page
+2022-01-16 21:41:00,145  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Date Field is clicked in page Round Trip
+2022-01-16 21:41:04,941  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Date Field is clicked in page Round Trip
+2022-01-16 21:41:09,587  INFO [TestNG-test=Test-1] CarBookingRunner:14 - click on select car is clicked in page Airport Taxi Booking
+2022-01-16 21:41:09,890  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Successfully opened Airport Taxi Booking Page

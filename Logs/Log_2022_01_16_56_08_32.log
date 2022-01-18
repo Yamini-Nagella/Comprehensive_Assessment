@@ -1,0 +1,6 @@
+2022-01-16 20:56:38,405  INFO [TestNG-test=Test-1] CarBookingRunner:14 - URL Opened
+2022-01-16 20:56:41,205  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Select Local City Tab is clicked in page Home Page
+2022-01-16 20:56:42,487  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Select City is send in page Home Page
+2022-01-16 20:56:43,775  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Date Field is clicked in page Local Car Booking
+2022-01-16 20:56:48,813  INFO [TestNG-test=Test-1] CarBookingRunner:14 - click on select car is clicked in page Local Taxi Booking
+2022-01-16 20:56:49,064  INFO [TestNG-test=Test-1] CarBookingRunner:14 - Successfully opened Local Taxi Booking Page
